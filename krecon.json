@@ -1,0 +1,1 @@
+{"repo": "/home/wow/linux", "config": "/home/john/repo/config-6.8.0-117-generic", "parallel": 12, "batch_size": 7, "model": "xai/grok-4.20-0309-reasoning"}
